@@ -46,4 +46,5 @@ print_r($this->arResult);
    Array ( [324] => Array ( [Model] => КИА [ComfortCategory] => Третья категория [Driver] => Сергеев Сергей Сергеевич ) [331] => Array ( [Model] => Corolla [ComfortCategory] => Вторая категория [Driver] => Иванов Иван Иванович ) )
    ```
 
-
+### Файл с диаграммой связей
+Car-Reservation.drawio.png
